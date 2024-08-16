@@ -1,0 +1,16 @@
+type: remote_edu
+custom_name: Sustainable care <3
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17233#comment
+check_profile: hyperskill_node_javascript
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 16 Aug 2024 15:06:18 UTC"
+record: -1

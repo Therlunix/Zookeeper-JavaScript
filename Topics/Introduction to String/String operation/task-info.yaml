@@ -1,0 +1,26 @@
+type: matching
+captions:
+  - console.log(24 - "20");
+  - console.log(24 + 20);
+  - console.log("24" + 20);
+  - console.log("24"- "20" + "4");
+  - console.log("24" - "20" + 4);
+options:
+  - 4
+  - 8
+  - '''44'''
+  - 44
+  - '''2420'''
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17751#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
